@@ -1,0 +1,8 @@
+
+
+compile: there is a makefile uploaded as other source files. gmakemake also works.
+
+usage: sanit
+
+email syntax: please refer to http://en.wikipedia.org/wiki/Email_address for the syntax of a valid email address. In this program, we do not support "[]" in domain name.
+Email address a@b is valid. In this case, we treat b as the highest level domain name.
